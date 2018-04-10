@@ -1,0 +1,21 @@
+{
+  "123455678": {
+    "userName": "Ravneet",
+    "lastContext": "shoes",
+    "searchedItems": [
+      "nike shoes",
+      "shoes",
+      "shoes",
+      "shoes"
+    ]
+  },
+  "324243523": {
+    "userName": "Ayush",
+    "lastContext": "guitar",
+    "searchedItems": [
+      "books",
+      "fruits",
+      "guitar"
+    ]
+  }
+}
